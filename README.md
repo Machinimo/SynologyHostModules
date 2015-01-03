@@ -1,3 +1,3 @@
 SynologyHostModules
 ===================
-Host module for Oboom premium accounts.
+Host modules
